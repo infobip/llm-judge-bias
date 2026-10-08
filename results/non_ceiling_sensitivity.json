@@ -1,0 +1,10 @@
+{
+  "bootstrap_reps": 10000,
+  "ci_high": -0.09818698779693874,
+  "ci_low": -0.3434797538740464,
+  "mean": -0.22703158072942095,
+  "model_task_units": 60,
+  "negative_units": 50,
+  "represented_tasks": 19,
+  "seed": 42
+}

@@ -1,0 +1,10 @@
+strategy,condition,correction_rate,mislabel_persistence
+baseline,C0,0.2162,0.6577
+baseline,C1,0.2297,0.6577
+baseline,C2,0.1126,0.8153
+cot,C0,0.3694,
+cot,C1,0.4054,
+cot,C2,0.2252,
+warning,C0,0.2973,
+warning,C1,0.2748,
+warning,C2,0.2252,

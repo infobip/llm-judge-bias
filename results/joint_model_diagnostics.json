@@ -1,0 +1,9 @@
+{
+  "bootstrap_reps": 10000,
+  "condition_number": 5.570482331605976,
+  "formula": "c2_c0 ~ C(category, Treatment(reference='code_review')) + C(temperature, Treatment(reference=0.0)) + C(model_short, Sum)",
+  "observations": 640,
+  "r_squared": 0.19764165054345306,
+  "seed": 42,
+  "tasks": 20
+}
